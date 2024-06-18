@@ -1,3 +1,5 @@
+![image](https://github.com/MaracaraCarlos/Ecommerce-Product-Page/assets/113530553/58dda776-6e60-49af-b17a-dbe42aa6a2b7)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
